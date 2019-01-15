@@ -10,6 +10,7 @@ public class CharacterHandler : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//I've made a change
+        //Another one
 	}
 	
 	// Update is called once per frame
